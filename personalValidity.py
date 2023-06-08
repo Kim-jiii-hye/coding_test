@@ -3,40 +3,44 @@
 # A 유효기간 6달 B 유효기간 12달 C 유효기간 3달
 # 유효기간 지난 파기해야할 개인정보는 result [1,3]
 #
-# 2023-06-08 start 07:37 - stop
-# 채점 : 0.0/100.0\
-from datetime import datetime, timedelta
+# 2023-06-08 start 07:37 - stop 08:20 not solved
+# 2023-06-09 start 07:50 - stop 08:10 채점 : 25.0/100.0
+#
+from datetime import datetime
 
 def solution(today, terms, privacies):
     answer = []
-    for i in privacies:
+    for (idx, i) in enumerate(privacies):
         sp = i.split(' ')
-        date_origin = sp[0]
-        date_format = '%Y.%m.%d'
-        date = datetime.strptime(date_origin, date_format)
+        date = sp[0]
+        date_sp = date.split('.')
+        date_y = int(date_sp[0])
+        date_m = int(date_sp[1])
+        date_d = int(date_sp[2])
+        # print(i)
         target = sp[1]
-        print(f"날짜:{date}")
-        # 한 달에 28일 씩 6달
-        for (jdx,j) in enumerate(terms):
+        for (jdx, j) in enumerate(terms):
             if target in j:
-                target_month = int(j.split(' ')[1])
-                tar_m = date.month
-                tar_y = date.year
-                tar_d = date.day
-                res_m = tar_m + target_month
-                print(res_m)
-
-                result = f"{tar_y}.{res_m}.{tar_d}"
-
-                print(result)
-                print(today)
-                # if today_date >= result:
-                #     print(f"")
-            else:
-                continue
+                date_m = date_m + int(j.split(' ')[1])
+                if date_m > 12:
+                    date_y = date_y + 1
+                    date_m = date_m % 12
 
 
+        goal_format = '%Y.%m.%d'
+        goal_date = f'{date_y}.{date_m}.{date_d}'
+        goal = datetime.strptime(goal_date, goal_format)
+        today_ = datetime.strptime(today, goal_format)
+        # print(goal)
+        # print(today_)
+        if goal <= today_:
+            # print('지남')
+            answer.append(idx+1)
+        # else:
+            # print('안지남')
 
+
+    print(answer)
 
     return answer
 
