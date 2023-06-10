@@ -2,7 +2,7 @@
 
 ## Level1
 
-### 달리기 경주
+### 달리기 경주(running.py)
 
 [https://school.programmers.co.kr/learn/courses/30/lessons/178871](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
 
