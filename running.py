@@ -4,7 +4,7 @@
 # callings ["kai","kai", "mine", "mine"]
 # result ["mumu", "kai", "mine", "soe", "poe"]
 # 2023-05-29 start 11:10 - stop 11:50
-# 2023-06-10 start 09:35 - stop
+# 2023-06-10 start 09:35 - stop 11:40
 # 채점 : 68.8/100.0 => 시간초과 실패 5개
 # player는 최대 5만명까지 있을 수 있음,
 # index() 선형 시간 복잡도. O(1)
