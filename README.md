@@ -43,3 +43,6 @@
 ### 크기가 작은 부분문자열(substring.py)
 
 [https://school.programmers.co.kr/learn/courses/30/lessons/147355](https://school.programmers.co.kr/learn/courses/30/lessons/147355)
+
+### 가장 가까운 같은 글자(findSpell.py)
+[https://school.programmers.co.kr/learn/courses/30/lessons/142086](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
