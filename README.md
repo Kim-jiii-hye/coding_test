@@ -46,3 +46,6 @@
 
 ### 가장 가까운 같은 글자(findSpell.py)
 [https://school.programmers.co.kr/learn/courses/30/lessons/142086](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
+
+### 문자열 나누기(splitWord.py
+[https://school.programmers.co.kr/learn/courses/30/lessons/140108](https://school.programmers.co.kr/learn/courses/30/lessons/140108)
