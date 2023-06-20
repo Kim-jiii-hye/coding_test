@@ -40,18 +40,28 @@
 
 [https://school.programmers.co.kr/learn/courses/30/lessons/150370](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 
+
 ### 크기가 작은 부분문자열(substring.py)
 
 [https://school.programmers.co.kr/learn/courses/30/lessons/147355](https://school.programmers.co.kr/learn/courses/30/lessons/147355)
 
+
 ### 가장 가까운 같은 글자(findSpell.py)
 [https://school.programmers.co.kr/learn/courses/30/lessons/142086](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
+
 
 ### 문자열 나누기(splitWord.py)
 [https://school.programmers.co.kr/learn/courses/30/lessons/140108](https://school.programmers.co.kr/learn/courses/30/lessons/140108)
 
+
 ### 명예의 전당(1) (hall the fame)
 [https://school.programmers.co.kr/learn/courses/30/lessons/138477](https://school.programmers.co.kr/learn/courses/30/lessons/138477)
 
+
 ### 기사단원의 무기 (weapon.py)
-[https://school.programmers.co.kr/learn/courses/30/lessons/136798](https://school.programmers.co.kr/learn/courses/30/lessons/136798)  
+[https://school.programmers.co.kr/learn/courses/30/lessons/136798](https://school.programmers.co.kr/learn/courses/30/lessons/136798)
+
+
+### 과일 장수(fruitSeller.py)
+[https://school.programmers.co.kr/learn/courses/30/lessons/135808](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
+
