@@ -65,3 +65,6 @@
 ### 과일 장수(fruitSeller.py)
 [https://school.programmers.co.kr/learn/courses/30/lessons/135808](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
 
+
+### 푸드 파이트 대회 (foodFight.py)
+[https://school.programmers.co.kr/learn/courses/30/lessons/134240](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
