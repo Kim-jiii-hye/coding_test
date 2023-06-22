@@ -68,3 +68,7 @@
 
 ### 푸드 파이트 대회 (foodFight.py)
 [https://school.programmers.co.kr/learn/courses/30/lessons/134240](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
+
+
+### 햄버거 만들기 (makeHamburger.py)
+[https://school.programmers.co.kr/learn/courses/30/lessons/133502](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
