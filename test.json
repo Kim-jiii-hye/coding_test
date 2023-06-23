@@ -1,0 +1,32 @@
+{
+  "page": 1,
+  "per_page": 10,
+  "total": 3,
+  "total_pages": 1,
+  "data": [
+    {
+      "name": "Dallas",
+      "weather": "12 degree",
+      "status": [
+        "Wind: 2Kmph",
+        "Humidity: 5%"
+      ]
+    },
+    {
+      "name": "Dallupura",
+      "weather": "10 degree",
+      "status": [
+        "Wind: 9Kmph",
+        "Humidity: 14%"
+      ]
+    },
+    {
+      "name": "Vallejo",
+      "weather": "1 degree",
+      "status": [
+        "Wind: 24Kmph",
+        "Humidity: 56%"
+      ]
+    }
+  ]
+}
