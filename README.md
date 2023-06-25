@@ -72,3 +72,7 @@
 
 ### 햄버거 만들기 (makeHamburger.py)
 [https://school.programmers.co.kr/learn/courses/30/lessons/133502](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
+
+
+### 옹알이(2) (babbling.py)
+[https://school.programmers.co.kr/learn/courses/30/lessons/133499](https://school.programmers.co.kr/learn/courses/30/lessons/133499)
