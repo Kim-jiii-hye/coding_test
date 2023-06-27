@@ -20,10 +20,21 @@ def solution(babbling):
                 res.append(babb.index(result))
                 result = ''
         print(f"res:{res}")
+        cnt = 0
         for (jdx,j) in enumerate(res):
             if type(j) == int:
-                print(res[jdx:])
-        #         res = res[jdx:]
+                cnt = cnt + 1
+                # print(f"cnt:{cnt} jdx:{jdx}")
+                if cnt == 1:
+                    res = res[jdx:]
+                    print(f"cnt:1 {res}")
+                else :
+                    print(jdx)
+
+
+
+
+                # res = res[jdx:]
         #         # print(res[jdx:])
         # print(f"res:{res}")
         # for (jdx, j) in enumerate(res):
