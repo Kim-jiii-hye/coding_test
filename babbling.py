@@ -14,21 +14,27 @@ def solution(babbling):
         for spell in i:
             if result not in babb:
                 result = result + spell
+                res.append(result)
             if result in babb:
                 print(f"result:{result} index: {babb.index(result)}")
                 res.append(babb.index(result))
                 result = ''
+        print(f"res:{res}")
+        for (jdx,j) in enumerate(res):
+            if type(j) == int:
+                print(res[jdx:])
+        #         res = res[jdx:]
+        #         # print(res[jdx:])
+        # print(f"res:{res}")
+        # for (jdx, j) in enumerate(res):
 
-
-        print(res)
-
-        for (jdx, j) in enumerate(res):
-            if jdx+1 < len(res):
-                # print(f"{jdx}일 때 {jdx+1}")
-                if res[jdx] != res[jdx+1]:
-                    answer = answer + 1
-                    print(f"{answer}추가")
-                    break
+        #
+        # for (jdx, j) in enumerate(res):
+        #     if jdx+1 < len(res):
+        #         # print(f"{jdx}일 때 {jdx+1}")
+        #         if res[jdx] != res[jdx+1]:
+        #             answer = answer + 1
+        #             break
     print(f"answer : {answer}")
 
 
