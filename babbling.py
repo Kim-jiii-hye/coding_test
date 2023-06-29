@@ -2,6 +2,7 @@
 
 # 2023-06-26 start 07:14 - 07:30 not solved
 # 2023-06-27 start 21:12 - 22:33 not solved
+# 2023-06-28 start -
 
 # 채점 : 45.0/100.0
 def solution(babbling):
@@ -16,7 +17,7 @@ def solution(babbling):
                 result = result + spell
                 res.append(result)
             if result in babb:
-                print(f"result:{result} index: {babb.index(result)}")
+                # print(f"result:{result} index: {babb.index(result)}")
                 res.append(babb.index(result))
                 result = ''
         print(f"res:{res}")
@@ -28,8 +29,11 @@ def solution(babbling):
                 if cnt == 1:
                     res = res[jdx:]
                     print(f"cnt:1 {res}")
-                else :
-                    print(jdx)
+                else:
+                    test = jdx - cnt
+                    # print(test)
+                    print(f"cnt:{cnt}    jdx:{jdx} res:{res} len:{len(res)} test:{test}")
+
 
 
 
