@@ -82,4 +82,8 @@
 [https://school.programmers.co.kr/learn/courses/30/lessons/132267](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
 
 ### 삼총사(threeMan.py)
-[https://school.programmers.co.kr/learn/courses/30/lessons/131705](https://school.programmers.co.kr/learn/courses/30/lessons/131705)  
+[https://school.programmers.co.kr/learn/courses/30/lessons/131705](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
+
+
+### books directory
+- 이것이 코딩 테스트다 예제 문제 풀이  
