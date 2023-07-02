@@ -80,3 +80,6 @@
 
 ### 콜라문제(coke.py)
 [https://school.programmers.co.kr/learn/courses/30/lessons/132267](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
+
+### 삼총사(threeMan.py)
+[https://school.programmers.co.kr/learn/courses/30/lessons/131705](https://school.programmers.co.kr/learn/courses/30/lessons/131705)  
