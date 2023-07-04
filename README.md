@@ -84,6 +84,9 @@
 ### 삼총사(threeMan.py)
 [https://school.programmers.co.kr/learn/courses/30/lessons/131705](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
 
+### 숫자 짝꿍(numberPartner.py)
+[https://school.programmers.co.kr/learn/courses/30/lessons/131128](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
+
 
 ### books directory
 - 이것이 코딩 테스트다 예제 문제 풀이  
