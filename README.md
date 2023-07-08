@@ -85,8 +85,11 @@
 [https://school.programmers.co.kr/learn/courses/30/lessons/131705](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
 
 ### 숫자 짝꿍(numberPartner.py)
-[https://school.programmers.co.kr/learn/courses/30/lessons/131128](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
+[https://school.programmers.co.kr/learn/courses/30/lessons/131128](https://school.programmers.co.kr/learn/courses/30/lessons/131128)  
 
+
+### 성격 유형 검사하기(personalityTest.py)
+[https://school.programmers.co.kr/learn/courses/30/lessons/118666](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
 
 ### books directory
 - 이것이 코딩 테스트다 예제 문제 풀이  
