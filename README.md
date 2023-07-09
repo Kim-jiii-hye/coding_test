@@ -91,5 +91,8 @@
 ### 성격 유형 검사하기(personalityTest.py)
 [https://school.programmers.co.kr/learn/courses/30/lessons/118666](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
 
+### 나머지가 1이 되는 수 찾기(div.py)
+[]()  
+
 ### books directory
 - 이것이 코딩 테스트다 예제 문제 풀이  
