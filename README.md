@@ -92,7 +92,10 @@
 [https://school.programmers.co.kr/learn/courses/30/lessons/118666](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
 
 ### 나머지가 1이 되는 수 찾기(div.py)
-[]()  
+[https://school.programmers.co.kr/learn/courses/30/lessons/87389](https://school.programmers.co.kr/learn/courses/30/lessons/87389)  
+
+### 최소 직사각형(minRectangle.py)
+[https://school.programmers.co.kr/learn/courses/30/lessons/86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
 
 ### books directory
 - 이것이 코딩 테스트다 예제 문제 풀이  
