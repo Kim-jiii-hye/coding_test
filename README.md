@@ -97,5 +97,8 @@
 ### 최소 직사각형(minRectangle.py)
 [https://school.programmers.co.kr/learn/courses/30/lessons/86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
 
+### 없는 숫자 더하기(noNumber.py)
+[https://school.programmers.co.kr/learn/courses/30/lessons/86051](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
+
 ### books directory
 - 이것이 코딩 테스트다 예제 문제 풀이  
