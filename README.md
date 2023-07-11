@@ -100,5 +100,9 @@
 ### 없는 숫자 더하기(noNumber.py)
 [https://school.programmers.co.kr/learn/courses/30/lessons/86051](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
 
+### 부족한 금액 계산하기(calc.py)
+[https://school.programmers.co.kr/learn/courses/30/lessons/82612](https://school.programmers.co.kr/learn/courses/30/lessons/82612)  
+
+
 ### books directory
 - 이것이 코딩 테스트다 예제 문제 풀이  
