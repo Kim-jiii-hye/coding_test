@@ -103,6 +103,8 @@
 ### 부족한 금액 계산하기(calc.py)
 [https://school.programmers.co.kr/learn/courses/30/lessons/82612](https://school.programmers.co.kr/learn/courses/30/lessons/82612)  
 
+### 숫자 문자열과 영단어(engword.py)
+[https://school.programmers.co.kr/learn/courses/30/lessons/81301](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
 
 ### books directory
 - 이것이 코딩 테스트다 예제 문제 풀이  
