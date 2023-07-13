@@ -4,15 +4,19 @@
 
 # 채점 : 0/100.0
 def solution(s):
-    check = ''
-    data = ['zero', 'one', 'two', 'three','four', 'five', 'six', 'seven', 'eight', 'nine']
-    for (idx, i) in enumerate(s):
-        print(i)
-        if check not in data:
-            check = check + i
-        else:
 
-            print(f"check:{check} idx:{idx}")
+    data = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
+    print(s)
+    check = ''
+    for (idx, i) in enumerate(s):
+        if check.isdigit() == False:
+            check = check + i
+            print(check)
+
+        if check in data:
+            print(idx)
+            print(check)
+            check = ''
 
 
 if __name__ == '__main__':
