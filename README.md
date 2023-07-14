@@ -106,5 +106,8 @@
 ### 숫자 문자열과 영단어(engword.py)
 [https://school.programmers.co.kr/learn/courses/30/lessons/81301](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
 
+### 약수의 개수와 덧셈(measure.py)
+[https://school.programmers.co.kr/learn/courses/30/lessons/77884](https://school.programmers.co.kr/learn/courses/30/lessons/77884)
+
 ### books directory
 - 이것이 코딩 테스트다 예제 문제 풀이  
